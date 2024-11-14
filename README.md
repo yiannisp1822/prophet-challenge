@@ -5,14 +5,14 @@ This project analyzes Google search traffic   data for MercadoLibre to determine
 
 Requirements  
 
-T<!-- he project uses the following libraries:
-	•	pandas
-	•	Prophet
-	•	matplotlib
-	•	numpy
+The project uses the following libraries:
+- pandas
+- Prophet
+- matplotlib
+- numpy
 
 
-    Notebook Structure
+Notebook Structure
 
 Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 
